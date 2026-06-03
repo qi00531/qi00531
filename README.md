@@ -1,48 +1,78 @@
+<table>
+  <tr>
+    <td width="58%" valign="middle">
+      <h1>Hello, I'm Suki. Welcome to my universe.</h1>
+      <p>
+        <strong>I build systems that help people understand, decide, and grow.</strong>
+      </p>
+      <p>
+        Pastel GitHub profile, cozy digital garden, soft space aesthetic, personal universe,
+        AI creator, calm tech portfolio, and friendly interface.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/AI%20Creator-FFF7EF?style=for-the-badge&labelColor=FFF7EF&color=F8DDEB" alt="AI Creator" />
+        <img src="https://img.shields.io/badge/LegalTech-E9E0FF?style=for-the-badge&labelColor=E9E0FF&color=E9E0FF" alt="LegalTech" />
+        <img src="https://img.shields.io/badge/Digital%20Garden-FFE1C7?style=for-the-badge&labelColor=FFE1C7&color=FFE1C7" alt="Digital Garden" />
+      </p>
+    </td>
+    <td width="42%" valign="middle" align="center">
+      <img src="./assets/space-hero.svg" width="390" alt="Pastel astronaut and cat sitting on a small planet with stars" />
+    </td>
+  </tr>
+</table>
+
 <div align="center">
-  <img src="./assets/cat-run.svg" width="150" alt="A tiny cat running across the page" />
+  <img src="./assets/cat-divider.svg" width="620" alt="A cozy cat divider with soft stars" />
 </div>
 
 <table>
   <tr>
-    <td width="34%" valign="top">
+    <td width="32%" valign="top">
       <div align="center">
-        <img src="./assets/anime-avatar.svg" width="180" alt="Anime-style profile avatar" />
-        <h1>Qisen</h1>
-        <p>
-          <strong>AI x LegalTech x Product</strong><br />
-          Building agentic workflows, learning systems, and interactive experiences that make complex knowledge feel usable.
-        </p>
+        <img src="./assets/suki-avatar.svg" width="170" alt="Circular pastel avatar for Suki" />
+        <h2>Suki</h2>
+        <p><strong>@qi00531</strong></p>
       </div>
       <br />
       <p>
-        <strong>About me</strong><br />
-        I care about tools that help people think, learn, decide, and grow. My work sits between legal AI, product design, agent workflows, and human-centered learning.
+        <strong>Location</strong><br />
+        Somewhere between Earth and a soft little orbit.
       </p>
       <p>
-        <strong>Contact</strong><br />
-        GitHub: <a href="https://github.com/qi00531">@qi00531</a><br />
-        Focus: AI agents, LegalTech products, learning interfaces<br />
-        Open to: thoughtful collaboration and product experiments
+        <strong>Email</strong><br />
+        <a href="mailto:hello@suki.dev">hello@suki.dev</a>
+      </p>
+      <p>
+        <strong>Links</strong><br />
+        <a href="https://github.com/qi00531">GitHub</a> ·
+        <a href="https://github.com/qi00531?tab=repositories">Projects</a> ·
+        <a href="https://github.com/qi00531?tab=stars">Garden</a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Palette-Cream-FFF7EF?style=flat-square" alt="Cream palette" />
+        <img src="https://img.shields.io/badge/Mood-Cozy-F8DDEB?style=flat-square" alt="Cozy mood" />
+        <img src="https://img.shields.io/badge/Theme-Space-E9E0FF?style=flat-square" alt="Space theme" />
       </p>
     </td>
-    <td width="66%" valign="top">
-      <h3>Project Tags</h3>
+    <td width="68%" valign="top">
+      <h2>Project Tags</h2>
       <p>
-        <img src="https://img.shields.io/badge/LegalTech-F6EFE8?style=for-the-badge&labelColor=F6EFE8&color=F6EFE8" alt="LegalTech" />
-        <img src="https://img.shields.io/badge/AI%20Agent-EAF4F4?style=for-the-badge&labelColor=EAF4F4&color=EAF4F4" alt="AI Agent" />
-        <img src="https://img.shields.io/badge/Learning%20Systems-F5ECFA?style=for-the-badge&labelColor=F5ECFA&color=F5ECFA" alt="Learning Systems" />
-        <img src="https://img.shields.io/badge/Interactive%20Experience-FFF3D9?style=for-the-badge&labelColor=FFF3D9&color=FFF3D9" alt="Interactive Experience" />
+        <img src="https://img.shields.io/badge/LegalTech-FFF7EF?style=for-the-badge&labelColor=FFF7EF&color=F2D7C6" alt="LegalTech" />
+        <img src="https://img.shields.io/badge/AI%20Agent-E9E0FF?style=for-the-badge&labelColor=E9E0FF&color=CFC0F1" alt="AI Agent" />
+        <img src="https://img.shields.io/badge/Learning%20Systems-F8DDEB?style=for-the-badge&labelColor=F8DDEB&color=EFB7C8" alt="Learning Systems" />
+        <img src="https://img.shields.io/badge/Interactive%20Experience-FFE1C7?style=for-the-badge&labelColor=FFE1C7&color=F4C59E" alt="Interactive Experience" />
       </p>
-      <br />
-      <h3>Current Signal</h3>
+
+      <h2>Current Signal</h2>
       <p>
-        Designing calm AI systems for legal reasoning, product thinking, personal learning, and everyday exploration.
+        I am exploring how AI agents, legal reasoning, learning systems, and product interfaces can make complex decisions feel calmer, clearer, and more human.
       </p>
+
+      <h2>About Me</h2>
       <p>
-        <img src="https://img.shields.io/badge/Agent%20Workflow-ffffff?style=flat-square&labelColor=ffffff&color=E6F4EA" alt="Agent Workflow" />
-        <img src="https://img.shields.io/badge/Product%20Thinking-ffffff?style=flat-square&labelColor=ffffff&color=FDEAD7" alt="Product Thinking" />
-        <img src="https://img.shields.io/badge/Legal%20AI-ffffff?style=flat-square&labelColor=ffffff&color=EAF0FF" alt="Legal AI" />
-        <img src="https://img.shields.io/badge/Human%20Growth-ffffff?style=flat-square&labelColor=ffffff&color=F8E8EF" alt="Human Growth" />
+        I work across AI product thinking, LegalTech workflows, learning experience design, and interactive systems.
+        My mission is to build gentle tools for serious thinking: software that helps people understand hard problems,
+        make better decisions, and keep growing without feeling overwhelmed.
       </p>
     </td>
   </tr>
@@ -50,108 +80,60 @@
 
 ## Featured Projects
 
-<!--
-  Tip: replace the repository links below with your real project URLs.
-  GitHub README does not support custom hover CSS or JavaScript, so these cards
-  are designed as clean, clickable Markdown/HTML blocks that stay reliable.
--->
-
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/qi00531/legal-ai-assistant">Legal AI Assistant</a></h3>
-      <p>A legal reasoning assistant for document review, issue spotting, and structured research workflows.</p>
+      <h3>Administrative Review AI</h3>
+      <p><strong>Legal reasoning assistant</strong> for administrative review workflows, document structure, and issue analysis.</p>
       <p>
-        <img src="https://img.shields.io/badge/Legal%20AI-F6EFE8?style=flat-square" alt="Legal AI" />
-        <img src="https://img.shields.io/badge/RAG-EAF4F4?style=flat-square" alt="RAG" />
-        <img src="https://img.shields.io/badge/Workflow-FFF3D9?style=flat-square" alt="Workflow" />
+        <img src="https://img.shields.io/badge/status-building-F8DDEB?style=flat-square" alt="Building status" />
+        <img src="https://img.shields.io/badge/icon-legal%20orbit-E9E0FF?style=flat-square" alt="Legal orbit icon" />
       </p>
+      <p><a href="https://github.com/qi00531/administrative-review-ai">View on GitHub</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/qi00531/agent-workflow-studio">Agent Workflow Studio</a></h3>
-      <p>An experimental workspace for planning, executing, and evaluating multi-step AI agent tasks.</p>
+      <h3>ToolFlow</h3>
+      <p><strong>Agent workflow system</strong> for chaining tools, planning steps, and turning messy tasks into calm execution paths.</p>
       <p>
-        <img src="https://img.shields.io/badge/AI%20Agent-EAF4F4?style=flat-square" alt="AI Agent" />
-        <img src="https://img.shields.io/badge/Automation-E6F4EA?style=flat-square" alt="Automation" />
-        <img src="https://img.shields.io/badge/Product-FDEAD7?style=flat-square" alt="Product" />
+        <img src="https://img.shields.io/badge/status-prototype-E9E0FF?style=flat-square" alt="Prototype status" />
+        <img src="https://img.shields.io/badge/icon-tool%20comet-FFE1C7?style=flat-square" alt="Tool comet icon" />
       </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/qi00531/learning-card-system">Learning Card System</a></h3>
-      <p>A lightweight learning interface for turning complex topics into memorable, interactive knowledge cards.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Learning-F5ECFA?style=flat-square" alt="Learning" />
-        <img src="https://img.shields.io/badge/UX-FFF3D9?style=flat-square" alt="UX" />
-        <img src="https://img.shields.io/badge/Knowledge-EAF0FF?style=flat-square" alt="Knowledge" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/qi00531/interactive-law-sandbox">Interactive Law Sandbox</a></h3>
-      <p>A playful simulation space for exploring legal concepts through scenarios, choices, and feedback loops.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Interactive-EAF4F4?style=flat-square" alt="Interactive" />
-        <img src="https://img.shields.io/badge/Simulation-F8E8EF?style=flat-square" alt="Simulation" />
-        <img src="https://img.shields.io/badge/LegalTech-F6EFE8?style=flat-square" alt="LegalTech" />
-      </p>
+      <p><a href="https://github.com/qi00531/toolflow">View on GitHub</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/qi00531/product-thinking-notes">Product Thinking Notes</a></h3>
-      <p>Notes, frameworks, and small prototypes about product judgment, systems design, and AI-native UX.</p>
+      <h3>Learn Later</h3>
+      <p><strong>Learning capture garden</strong> for saving ideas, transforming them into cards, and returning at the right moment.</p>
       <p>
-        <img src="https://img.shields.io/badge/Product-FDEAD7?style=flat-square" alt="Product" />
-        <img src="https://img.shields.io/badge/Systems-E6F4EA?style=flat-square" alt="Systems" />
-        <img src="https://img.shields.io/badge/Notes-FFFFFF?style=flat-square" alt="Notes" />
+        <img src="https://img.shields.io/badge/status-exploring-FFE1C7?style=flat-square" alt="Exploring status" />
+        <img src="https://img.shields.io/badge/icon-memory%20planet-F8DDEB?style=flat-square" alt="Memory planet icon" />
       </p>
+      <p><a href="https://github.com/qi00531/learn-later">View on GitHub</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/qi00531/growth-os">Growth OS</a></h3>
-      <p>A personal operating system experiment for reflection, habit loops, learning paths, and world exploration.</p>
+      <h3>Lost Island</h3>
+      <p><strong>Interactive experience</strong> about exploration, choices, hidden systems, and playful story-driven interfaces.</p>
       <p>
-        <img src="https://img.shields.io/badge/Human%20Growth-F8E8EF?style=flat-square" alt="Human Growth" />
-        <img src="https://img.shields.io/badge/Life%20Design-EAF4F4?style=flat-square" alt="Life Design" />
-        <img src="https://img.shields.io/badge/Exploration-FFF3D9?style=flat-square" alt="Exploration" />
+        <img src="https://img.shields.io/badge/status-concept-FFF7EF?style=flat-square" alt="Concept status" />
+        <img src="https://img.shields.io/badge/icon-cat%20constellation-E9E0FF?style=flat-square" alt="Cat constellation icon" />
       </p>
+      <p><a href="https://github.com/qi00531/lost-island">View on GitHub</a></p>
     </td>
   </tr>
 </table>
 
-## Exploration
-
-<table>
-  <tr>
-    <td width="20%" align="center"><strong>Agent Workflow</strong><br />planning, tools, evaluation</td>
-    <td width="20%" align="center"><strong>Product Thinking</strong><br />systems, judgment, UX</td>
-    <td width="20%" align="center"><strong>Legal AI</strong><br />reasoning, retrieval, trust</td>
-    <td width="20%" align="center"><strong>Human Growth</strong><br />learning, reflection, habits</td>
-    <td width="20%" align="center"><strong>World Exploration</strong><br />culture, cities, stories</td>
-  </tr>
-</table>
-
-## Journey
-
-<table>
-  <tr>
-    <td width="18%" align="center"><strong>2024</strong><br />Foundations</td>
-    <td>Started shaping a long-term path around law, AI tools, learning systems, and product craft.</td>
-  </tr>
-  <tr>
-    <td width="18%" align="center"><strong>2025</strong><br />Build</td>
-    <td>Explored LegalTech prototypes, interactive learning products, and AI-assisted workflows.</td>
-  </tr>
-  <tr>
-    <td width="18%" align="center"><strong>2026</strong><br />Agents</td>
-    <td>Focused on agent workflows, product-quality AI experiences, and practical legal intelligence systems.</td>
-  </tr>
-  <tr>
-    <td width="18%" align="center"><strong>Future</strong><br />Grow</td>
-    <td>Keep building tools that make knowledge softer to approach, deeper to use, and easier to act on.</td>
-  </tr>
-</table>
-
-<div align="right">
-  <img src="./assets/cat-sleep.svg" width="155" alt="A tiny cat sleeping peacefully" />
+<div align="center">
+  <img src="./assets/cat-sleep.svg" width="165" alt="A resting pastel cat" />
 </div>
+
+## Little Universe Map
+
+<table>
+  <tr>
+    <td width="25%" align="center"><strong>Legal AI</strong><br />reasoning · retrieval · trust</td>
+    <td width="25%" align="center"><strong>Agent Workflow</strong><br />planning · tools · feedback</td>
+    <td width="25%" align="center"><strong>Learning Systems</strong><br />memory · cards · growth</td>
+    <td width="25%" align="center"><strong>Product Worlds</strong><br />interfaces · stories · care</td>
+  </tr>
+</table>
