@@ -21,10 +21,6 @@
   </tr>
 </table>
 
-<div align="center">
-  <img src="./assets/cat-divider.png" width="620" alt="A cozy cat divider with soft stars" />
-</div>
-
 ## Project Tags
 
 ![LegalTech](https://img.shields.io/badge/LegalTech-FFF7EF?style=for-the-badge&labelColor=FFF7EF&color=F2D7C6)
@@ -85,17 +81,11 @@ I work across AI product thinking, LegalTech workflows, learning experience desi
   </tr>
 </table>
 
-<div align="center">
-  <img src="./assets/cat-sleep.svg" width="165" alt="A resting pastel cat" />
-</div>
-
 ## Little Universe Map
 
-<table>
-  <tr>
-    <td width="25%" align="center"><strong>Legal AI</strong><br />reasoning · retrieval · trust</td>
-    <td width="25%" align="center"><strong>Agent Workflow</strong><br />planning · tools · feedback</td>
-    <td width="25%" align="center"><strong>Learning Systems</strong><br />memory · cards · growth</td>
-    <td width="25%" align="center"><strong>Product Worlds</strong><br />interfaces · stories · care</td>
-  </tr>
-</table>
+◌ ───────────────────── ◌ ───────────────────── ◌ ───────────────────── ◌
+
+| ◌ 01 | ◌ 02 | ◌ 03 | ◌ 04 |
+| --- | --- | --- | --- |
+| **Legal AI** | **Agent Workflow** | **Learning Systems** | **Product Worlds** |
+| reasoning · retrieval · trust | planning · tools · feedback | memory · cards · growth | interfaces · stories · care |
