@@ -1,0 +1,18 @@
+<svg width="190" height="92" viewBox="0 0 190 92" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .zzz{animation:float 2.8s ease-in-out infinite}
+    @keyframes float{0%,100%{transform:translateY(0);opacity:.65}50%{transform:translateY(-6px);opacity:1}}
+  </style>
+  <ellipse cx="91" cy="59" rx="56" ry="23" fill="#E9F3E7"/>
+  <circle cx="48" cy="51" r="21" fill="#E9F3E7"/>
+  <path d="M36 39L41 22L52 39" fill="#E9F3E7"/>
+  <path d="M54 38L70 26L67 47" fill="#E9F3E7"/>
+  <path d="M37 52C41 56 46 56 50 52" stroke="#536251" stroke-width="3" stroke-linecap="round"/>
+  <path d="M54 52C58 56 63 56 67 52" stroke="#536251" stroke-width="3" stroke-linecap="round"/>
+  <path d="M104 57C130 43 153 49 159 65" stroke="#BED5BA" stroke-width="10" stroke-linecap="round"/>
+  <path d="M31 75C61 82 108 83 157 75" stroke="#D9E8D5" stroke-width="3" stroke-linecap="round"/>
+  <g class="zzz" fill="#8BA999">
+    <path d="M128 18H148L134 36H149V42H122L136 24H128V18Z"/>
+    <path d="M153 8H169L158 22H170V27H149L160 13H153V8Z" opacity=".75"/>
+  </g>
+</svg>

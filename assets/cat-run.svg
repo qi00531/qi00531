@@ -1,0 +1,22 @@
+<svg width="180" height="84" viewBox="0 0 180 84" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .tail{animation:tail 1.8s ease-in-out infinite;transform-origin:132px 34px}
+    .body{animation:bob 1.8s ease-in-out infinite}
+    @keyframes tail{0%,100%{transform:rotate(0deg)}50%{transform:rotate(8deg)}}
+    @keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-3px)}}
+  </style>
+  <g class="body">
+    <ellipse cx="89" cy="43" rx="45" ry="22" fill="#FFE1C7"/>
+    <circle cx="47" cy="37" r="19" fill="#FFE1C7"/>
+    <path d="M35 24L39 8L50 22" fill="#FFE1C7"/>
+    <path d="M55 22L69 10L65 31" fill="#FFE1C7"/>
+    <circle cx="40" cy="37" r="2.8" fill="#5A4B44"/>
+    <circle cx="53" cy="37" r="2.8" fill="#5A4B44"/>
+    <path d="M45 45C49 48 53 47 56 44" stroke="#5A4B44" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M67 62C56 70 43 69 34 62" stroke="#E1A77F" stroke-width="7" stroke-linecap="round"/>
+    <path d="M93 63C84 76 68 77 60 67" stroke="#E1A77F" stroke-width="7" stroke-linecap="round"/>
+    <path d="M112 61C120 73 139 73 147 61" stroke="#E1A77F" stroke-width="7" stroke-linecap="round"/>
+  </g>
+  <path class="tail" d="M129 34C148 16 164 19 171 31" stroke="#E1A77F" stroke-width="10" stroke-linecap="round"/>
+  <path d="M20 67C45 74 89 77 158 67" stroke="#F2D8C7" stroke-width="3" stroke-linecap="round" opacity=".8"/>
+</svg>
