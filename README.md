@@ -16,67 +16,29 @@
       </p>
     </td>
     <td width="42%" valign="middle" align="center">
-      <img src="./assets/space-hero.svg" width="390" alt="Pastel astronaut and cat sitting on a small planet with stars" />
+      <img src="./assets/space-hero.png" width="390" alt="Pastel astronaut and cat sitting on a small planet with stars" />
     </td>
   </tr>
 </table>
 
 <div align="center">
-  <img src="./assets/cat-divider.svg" width="620" alt="A cozy cat divider with soft stars" />
+  <img src="./assets/cat-divider.png" width="620" alt="A cozy cat divider with soft stars" />
 </div>
 
-<table>
-  <tr>
-    <td width="32%" valign="top">
-      <div align="center">
-        <img src="./assets/suki-avatar.svg" width="170" alt="Circular pastel avatar for Suki" />
-        <h2>Suki</h2>
-        <p><strong>@qi00531</strong></p>
-      </div>
-      <br />
-      <p>
-        <strong>Location</strong><br />
-        Somewhere between Earth and a soft little orbit.
-      </p>
-      <p>
-        <strong>Email</strong><br />
-        <a href="mailto:hello@suki.dev">hello@suki.dev</a>
-      </p>
-      <p>
-        <strong>Links</strong><br />
-        <a href="https://github.com/qi00531">GitHub</a> ·
-        <a href="https://github.com/qi00531?tab=repositories">Projects</a> ·
-        <a href="https://github.com/qi00531?tab=stars">Garden</a>
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Palette-Cream-FFF7EF?style=flat-square" alt="Cream palette" />
-        <img src="https://img.shields.io/badge/Mood-Cozy-F8DDEB?style=flat-square" alt="Cozy mood" />
-        <img src="https://img.shields.io/badge/Theme-Space-E9E0FF?style=flat-square" alt="Space theme" />
-      </p>
-    </td>
-    <td width="68%" valign="top">
-      <h2>Project Tags</h2>
-      <p>
-        <img src="https://img.shields.io/badge/LegalTech-FFF7EF?style=for-the-badge&labelColor=FFF7EF&color=F2D7C6" alt="LegalTech" />
-        <img src="https://img.shields.io/badge/AI%20Agent-E9E0FF?style=for-the-badge&labelColor=E9E0FF&color=CFC0F1" alt="AI Agent" />
-        <img src="https://img.shields.io/badge/Learning%20Systems-F8DDEB?style=for-the-badge&labelColor=F8DDEB&color=EFB7C8" alt="Learning Systems" />
-        <img src="https://img.shields.io/badge/Interactive%20Experience-FFE1C7?style=for-the-badge&labelColor=FFE1C7&color=F4C59E" alt="Interactive Experience" />
-      </p>
+## Project Tags
 
-      <h2>Current Signal</h2>
-      <p>
-        I am exploring how AI agents, legal reasoning, learning systems, and product interfaces can make complex decisions feel calmer, clearer, and more human.
-      </p>
+![LegalTech](https://img.shields.io/badge/LegalTech-FFF7EF?style=for-the-badge&labelColor=FFF7EF&color=F2D7C6)
+![AI Agent](https://img.shields.io/badge/AI%20Agent-E9E0FF?style=for-the-badge&labelColor=E9E0FF&color=CFC0F1)
+![Learning Systems](https://img.shields.io/badge/Learning%20Systems-F8DDEB?style=for-the-badge&labelColor=F8DDEB&color=EFB7C8)
+![Interactive Experience](https://img.shields.io/badge/Interactive%20Experience-FFE1C7?style=for-the-badge&labelColor=FFE1C7&color=F4C59E)
 
-      <h2>About Me</h2>
-      <p>
-        I work across AI product thinking, LegalTech workflows, learning experience design, and interactive systems.
-        My mission is to build gentle tools for serious thinking: software that helps people understand hard problems,
-        make better decisions, and keep growing without feeling overwhelmed.
-      </p>
-    </td>
-  </tr>
-</table>
+## Current Signal
+
+I am exploring how AI agents, legal reasoning, learning systems, and product interfaces can make complex decisions feel calmer, clearer, and more human.
+
+## About Me
+
+I work across AI product thinking, LegalTech workflows, learning experience design, and interactive systems. My mission is to build gentle tools for serious thinking: software that helps people understand hard problems, make better decisions, and keep growing without feeling overwhelmed.
 
 ## Featured Projects
 
